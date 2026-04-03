@@ -24,3 +24,4 @@ Se realizaron los siguientes pasos:
 - No se encontraron valores nulos.
 - No se encontraron registros duplicados.
 - Los nombres de las columnas fueron estandarizados.
+
