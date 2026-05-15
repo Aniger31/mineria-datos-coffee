@@ -68,8 +68,8 @@ Las técnicas de minería de datos aplicadas demostraron ser herramientas efecti
 
 ## Contenido de la carpeta
 
-- `presentacion.pptx` → Diapositivas utilizadas en el video  
-- `PIA.mp4` → Video de presentación del proyecto  
+- `RHR_PIA_MD.pptx` → Diapositivas utilizadas en el video  
+- `VIDEO PÍA.mp4` → Video de presentación del proyecto  
 - `README.md` → Descripción del proyecto  
 
 ## Nota
